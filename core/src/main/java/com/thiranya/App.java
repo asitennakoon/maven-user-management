@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    public void developFeature() {
+        System.out.println("Feature developed");
+    }
 }
