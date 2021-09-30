@@ -11,6 +11,10 @@ public class App
         System.out.println( "Hello World!" );
     }
 
+    public void differentMethod() {
+        System.out.println("This is different");
+    }
+
     public void developFeature() {
         System.out.println("Feature developed");
     }
