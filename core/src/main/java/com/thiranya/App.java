@@ -15,6 +15,10 @@ public class App
         System.out.println("This is different");
     }
 
+    public void addFeature() {
+        System.out.println("Feature added");
+    }
+
     public void developFeature() {
         System.out.println("Feature developed");
     }
